@@ -27,8 +27,8 @@ This [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) proj
   
   To Compile:
   
-  ![Compile](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/compile.png)
+  ![Compile](https://github.com/arupmondal-cs/TipleDES-Encryption/blob/master/Picture/compile.png)
   
   To Execution:
   
-  ![Execution](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/run.png)
+  ![Execution](https://github.com/arupmondal-cs/TipleDES-Encryption/blob/master/Picture/run.png)
