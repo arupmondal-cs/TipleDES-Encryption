@@ -16,11 +16,15 @@ This [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) proj
   
   To Compile:
   
-  > **mcs TripleDES.cs**
+  ```
+  $ mcs TripleDES.cs
+  ```
   
   The compiler will create **"TripleDES.exe"**, which you can run using:
   
-  > **mono TripleDES.exe**
+  ```
+  $ mono TripleDES.exe
+  ```
   
   
   ## Execution with Pictures
